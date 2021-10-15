@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/MmyALyok1ar3L+WcqLDYwHuCobd0UXEtKBs2UnZhngR7Gb/lPgKwpBqzQ0hCwzh+GFVaGvmSKrofdcIqk0eA==",
+  "success": true,
+  "projectFilePath": "D:\\.net wpf\\my-work\\my-work-wpf\\UnitTest01\\ConceptArchitect.Finance\\ConceptArchitect.Finance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Navya S\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Navya S\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
