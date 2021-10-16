@@ -1,0 +1,10 @@
+C:\Users\Navya S\source\repos\simple interest\simple interest\bin\Debug\simple interest.exe.config
+C:\Users\Navya S\source\repos\simple interest\simple interest\bin\Debug\simple interest.exe
+C:\Users\Navya S\source\repos\simple interest\simple interest\bin\Debug\simple interest.pdb
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple interest.csproj.AssemblyReference.cache
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple_interest.Form1.resources
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple_interest.Properties.Resources.resources
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple interest.csproj.GenerateResource.cache
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple interest.csproj.CoreCompileInputs.cache
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple interest.exe
+C:\Users\Navya S\source\repos\simple interest\simple interest\obj\Debug\simple interest.pdb
